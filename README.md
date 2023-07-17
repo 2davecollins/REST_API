@@ -1,6 +1,7 @@
-## express - sqlite
+## express - sqlite Rest API using Swagger
 
+### npm install
 
-### protect branch
+### npm start
 
-[protect branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
+### navigate to http://localhost:4000/api-docs/ to see swagger documentation
